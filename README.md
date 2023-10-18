@@ -4,7 +4,8 @@ These are extra resources and recommendations that have helped other students.
 ## Coding Practice
 [Leetcode](https://leetcode.com/): Coding questions and improving algorithm skills, often used for technical interview preparation.  
 [Codewars](https://www.codewars.com/): Offers coding challenges and different solutions for them by the community.  
-[Advent of Code](https://adventofcode.com/): Christmas-themed coding puzzles that get gradually harder each christmas.  
+[Advent of Code](https://adventofcode.com/): Christmas-themed coding puzzles that gradually get harder each Christmas.  
+[Hackerrank](https://www.hackerrank.com/): A technical assessment website.
 
 ## Learning
 [GeeksforGeeks](https://www.geeksforgeeks.org/): Resource for learning and practising coding, algorithms, and data structures. Multiple coding languages are available.  
